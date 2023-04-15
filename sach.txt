@@ -1,0 +1,36 @@
+001
+tuoi tho
+kim dong
+kim dong
+13800
+2001
+103
+2/2/2002
+0
+002
+tuoi tho
+kim dong
+kim dong
+13800
+2001
+103
+2/2/2002
+1
+003
+tuoi tho
+kim dong
+kim dong
+13800
+2001
+103
+2/2/2002
+0
+004
+tuoi tho
+kim dong
+kim dong
+13800
+2001
+103
+2/2/2002
+0
